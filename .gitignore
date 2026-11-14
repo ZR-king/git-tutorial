@@ -1,0 +1,13 @@
+# 编辑器与系统
+*.swp
+*.swo
+*~
+
+# Python 
+_pycache_/
+*.pyc
+*.pyo
+
+#本地配置文件
+.env
+*.log
