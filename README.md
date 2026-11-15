@@ -6,5 +6,4 @@
 ##开始
 请先阅读'CONTRIBUTING.md"
 
-##练习记录  
-这是一些新的修改，修改时间是Nov 15 15：15
+## branch practice
