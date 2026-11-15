@@ -1,4 +1,3 @@
-#阅读指南
-1.先阅读README,了解仓库用途
-2.再读本文件，按顺序完成练习。
-3.遇到问题先查看‘git status’的提示。
+reading  README and CONTRIBUTTING
+# edit the docs/reading-guide.md . such as "read README , then read this file"
+Adding a remote practice line
